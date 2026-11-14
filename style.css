@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #0b0b14;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+canvas {
+  background: #14081f;
+  border: 3px solid #ff2a4d;
+  max-height: 100vh;
+  max-width: 100vw;
+  touch-action: none;
+} 
